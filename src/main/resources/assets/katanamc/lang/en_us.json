@@ -1,0 +1,26 @@
+{
+  "item.katanamc.aki": "Aki",
+  "item.katanamc.baiken": "Baiken",
+  "item.katanamc.calavera": "Calavera",
+  "item.katanamc.hoja_plateada": "Hoja Plateada",
+  "item.katanamc.kusanagi": "Kusanagi",
+  "item.katanamc.nichirin": "Nichirin",
+  "item.katanamc.shusui": "Shusui",
+  "item.katanamc.yasuo": "Yasuo",
+  "item.katanamc.yone": "Yone",
+  "item.katanamc.zagetsu": "Zagetsu",
+
+
+  "itemGroup.katanamc.general": "KatanaMC",
+
+  "block.katanamc.carton": "Carton",
+  "block.katanamc.carton_amarillo": "Carton Amarillo",
+  "block.katanamc.carton_cafe": "Carton Cafe",
+  "block.katanamc.carton_gris": "Carton Gris",
+  "block.katanamc.carton_gris_claro": "Carton Gris Claro",
+  "block.katanamc.carton_naranja": "Carton Naranja",
+  "block.katanamc.carton_negro": "Carton Negro",
+  "block.katanamc.carton_rojo": "Carton Rojo",
+  "block.katanamc.carton_rosa": "Carton Rosa"
+
+}

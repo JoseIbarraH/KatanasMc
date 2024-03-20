@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " H ",
+    "CHC",
+    "DSD"
+  ],
+  "key": {
+    "C": {
+      "item": "katanamc:carton_gris_claro"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "H": {
+      "item": "minecraft:diamond_block"
+    },
+    "D": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "katanamc:hoja_plateada",
+    "count": 1
+  }
+}

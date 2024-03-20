@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " H ",
+    "CHC",
+    "DSD"
+  ],
+  "key": {
+    "C": {
+      "item": "katanamc:carton_gris"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "H": {
+      "item": "minecraft:diamond_block"
+    },
+    "D": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "katanamc:nichirin",
+    "count": 1
+  }
+}

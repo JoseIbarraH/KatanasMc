@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RXR",
+    "R R",
+    "R#R"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:diamond_block"
+    },
+    "#": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "R": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "katanamc:carton",
+    "count": 1
+  }
+}
